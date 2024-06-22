@@ -1,1 +1,0 @@
-export { UploadPost } from '../uploadpost';
